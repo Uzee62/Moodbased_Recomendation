@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 from transformers import pipeline
 
-# Load the mood classification model
+# Loading the model
 mood_model = pipeline("text-classification", model="bhadresh-savani/bert-base-uncased-emotion")
 
-# Load the recommendation dataset
+# Loading dataset
 data = pd.read_csv('mood_items.csv')
 
 def recommend_items(mood):
@@ -17,19 +17,20 @@ def main():
     st.title("Mood-Based Recommendation System")
     st.write("How are you feeling today?")
 
-    # Input box for user mood description
+    # Take the input from the user
     user_input = st.text_area("Describe your mood:", "")
 
     if st.button("Get Recommendations"):
         if user_input:
-        # Analyze the mood from the user input
+        # Analyzing the mood 
             mood_prediction = mood_model(user_input)
 
-        # Print the full prediction for debugging
+       
             # st.write("Full Mood Prediction Output:", mood_prediction)  # Display the full prediction output
-
-            detected_mood = mood_prediction[0]['label'].lower()  # Get the mood label
-            # st.write(f"Detected Mood: {detected_mood}")  # Print detected mood
+            # Get the mood label
+            detected_mood = mood_prediction[0]['label'].lower()  
+            # Print detected mood
+            # st.write(f"Detected Mood: {detected_mood}")  
 
         # Map detected mood to recommendation categories
             mood_mapping = {
@@ -47,7 +48,7 @@ def main():
                 "Calm" : "joy"
             }
 
-        # Check the mapped mood
+        # Checking the mapped mood
         mapped_mood = mood_mapping.get(detected_mood, None)
 
 
