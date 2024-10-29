@@ -57,7 +57,7 @@ def main():
                 # Get recommendations based on the detected mood
                 recommendations = recommend_items(mapped_mood)
                 if not recommendations.empty:
-                    st.subheader("Recommendations:")
+                    st.subheader("Recommendations based on your Mood:")
                     for _, row in recommendations.iterrows():
                         st.write(f"- {row['item']} ({row['type']})")
                 else:
