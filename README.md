@@ -1,7 +1,7 @@
 ## Mood_based_Recomendation
 
 
-## URL : https://moodbasedrecomendation-6qjxw9d6lcbmapp4fqcuuvh.streamlit.app/
+## URL :https://moodbasedrecomendation-vsnghfpbsogzr7qhjuvxg5.streamlit.app/
 
 
 
