@@ -7,11 +7,24 @@ mood_mapping = {
     "anger": "angry",
     "fear": "sad",
     "surprise": "surprise",
-    "neutral": "relaxed",
+    "neutral": "neutral",
     "bore": "bored",
     "love": "nostalgic",
     "calm": "joy",
     "excitement": "excitement",
-    "disappointment": "disappointment"
+    "caring": "caring",
+    "admiration": "admiration",
+    "disappointment": "disappointment",
+    "confusion" : "confusion",
+    "annoyance": "annoyance",
+    "amusement": "amusement",
+    "disapproval": "disapproval",
+    "disgust": "disgust",
+    "embarrassment":"embarrassment",
+    "fear": "fear",
+    "gratitude": "gratitude",
+    "anger" : "angry",
+
+    
 
 }

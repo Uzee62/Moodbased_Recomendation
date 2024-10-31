@@ -42,7 +42,7 @@ surprise,"Surprise Surprise"" by The Intersphere",song
 nostalgic,"""The Perks of Being a Wallflower"" by Stephen Chbosky",book
 disappointment,"""To Kill a Mockingbird"" by Harper Lee",book
 nostalgic,"""The Great Gatsby"" by F. Scott Fitzgerald",book
-surprise,"""Shutter Island"" by Dennis Lehane",book
+confusion,"""Shutter Island"" by Dennis Lehane",book
 surprise,"""Gone Girl"" by Gillian Flynn",book
 surprise,"""The Sixth Extinction"" by Elizabeth Kolbert",book
 surprise,"""We Were Liars"" by E. Lockhart",book
@@ -71,3 +71,227 @@ disappointment,"""Finding Nemo (2003)""",movie
 disappointment,"""About Time (2013)""",movie
 disappointment,"""Eternal Sunshine of the Spotless Mind (2004)""",movie
 disappointment,"""Inside Out (2015)""",movie
+nostalgic,"""Photograph""",song
+nostalgic,"""you and i""",song
+nostalgic,"""Rehna hai tere dil mein""",movie
+nostalgic,"""Titanic""",movie
+nostalgic,Secrets of Divine Love: A Spiritual Journey Into the Heart of Islam,book
+nostalgic,"""40 rules of love by Elif Shafak""",book
+nostalgic,Love from Mecca to Medina,book
+nostalgic,"Salaam, with Love",book
+admiration,The Condemnation of Pride and Self-Admiration by Al gazali,book
+admiration,My Brother (Hardcover),book
+admiration,The Proudest Blue (Hardcover) by ibtihaj Mohammad,book
+admiration,Hamlet (Paperback),book
+admiration,The Grapes of Wrath (1940),movie
+admiration, High Noon (1952),movie
+admiration, A League of Their Own (1992),movie
+admiration,Schindler's List,movie
+admiration,Memento,movie
+admiration,Witness for the Prosecution,movie
+admiration,One Flew Over the Cuckoo's Nest,movie
+admiration,The Prestige,movie
+admiration,Scarface,movie
+admiration,Fight Club,movie
+nostalgic,A Beautiful Mind,movie
+admiration,Reservoir Dogs,movie
+admiration,Inside Out 2,cartoon
+caring,The Reluctant Caregiver by Kristin Marvin,book
+caring,Bittersweet Season By Jane Gross,book
+caring,Labours of Love: The Crisis of Care by Madeleine Bunting,book
+caring,"Dear Life: A Doctor's Story of Love, Loss and Consolation by Rachel Clarke",book
+caring,"Being Mortal: On Illness, Medicine and What Matters in the End by Atul Gawande",book
+caring,What Dementia Teaches Us About Love by Nicci Gerrard,book
+caring,Good Grief: Embracing Life at a Time of Death by Catherine Mayer and Anne Mayer Bird ,book
+caring,Elizabeth is Missing (2019),movie
+caring,Silver Linings Playbook (2012),movie
+caring,Still Alice (2014),movie
+caring,The Descendants (2011),movie
+confusion,2001: A Space Odyssey,movie
+confusion,Memento,movie
+confusion,Eraserhead,movie
+confusion,From Confusion to Clarity,book
+confusion,The Confusion by Neal Stephenson,book
+confusion,Confusion J. Sarah Duflo,book
+confusion,The Confused Mind,book
+confusion,Where Is My Mind by Pixies,song
+confusion,Where Is the Love?   By Black Eyed Peas,book
+confusion,Don't Know Why  by Norah Jones ,book
+confusion,Purification of the Heart by Hamza Yusuf,book
+confusion,The Productive Muslim by Mohammed Faris,book
+confusion,Don't Be Sad by Aaidh ibn Abdullah al-Qarn,book
+confusion,The Secrets of Divine Love by A. Helwa,book
+annoyance,Riyad as-Salihin (The Meadows of the Righteous) by Imam Nawawi,book
+annoyance,The Book of Assistance by Imam al-Haddad,book
+annoyance,Patience and Gratitude by Ibn Qayyim al-Jawziyya,book
+annoyance,Don't Be Sad by Aaidh ibn Abdullah al-Qarni,book
+annoyance,Al-Ghazali's Book of Knowledge,book
+annoyance,A Separation (2011),movie
+annoyance,The Color of Paradise (1999),movie
+annoyance,The Girl in the Sneakers (2016),movie
+annoyance,Ten (2002),movie
+annoyance,The Wind Will Carry Us (1999),movie
+annoyance,About Elly (2009),movie
+annoyance,Queen (2014),movie
+annoyance,Andaz Apna Apna (1994),movie
+annoyance,Dil Chahta Hai (2001),movie
+annoyance,Zindagi Na Milegi Dobara (2011),movie
+annoyance,Kahaani (2012),movie
+annoyance,Zootopia (2016),movie
+annoyance,Airplane! (1980),movie
+annoyance,Guardians of the Galaxy (2014),movie
+amusement,Bridesmaids (2011),movie
+amusement,The Hangover (2009),movie
+amusement,Shrek (2001),movie
+amusement,Toy Story (1995),movie
+amusement,The Intouchables (2011),movie
+amusement,Little Miss Sunshine (2006),movie
+amusement,Ferris Bueller's Day Off (1986),movie
+amusement,"""Good Omens"" by Neil Gaiman and Terry Pratchett",book
+amusement,"""The Hitchhiker's Guide to the Galaxy"" by Douglas Adams",book
+amusement,"""Bossypants"" by Tina Fey",book
+amusement,"""The Princess Bride"" by William Goldman",book
+amusement,"""The Discworld Series"" by Terry Pratchett",book
+amusement,"""The Cuckoo's Calling"" by Robert Galbraith (J.K. Rowling)",book
+amusement,"""The No. 1 Ladies' Detective Agency"" by Alexander McCall Smith",book
+amusement,"""Eleanor & Park"" by Rainbow Rowell",book
+amusement,"""Artemis Fowl"" by Eoin Colfer",book
+amusement,"""Pride and Prejudice"" by Jane Austen",book
+amusement,"""The Importance of Being Earnest"" by Oscar Wilde",book
+neutral,"""The Catcher in the Rye"" by J.D. Salinger",book
+neutral,"""Fight Club"" by Chuck Palahniuk",book
+neutral,"""The Bell Jar"" by Sylvia Plath",book
+neutral,"""Anger is a Gift"" by Mark Oshiro",book
+neutral,"""Anger: Wisdom for Cooling the Flames"" by Thich Nhat Hanh",book
+neutral,"""Anger Management for Dummies"" by Charles H. Elliott and Laura L. Smith",book
+neutral,"""Rage: A Love Story"" by Julie Anne Peters",book
+neutral,"""The Triggering Town"" by Richard Hugo",book
+neutral,Gully Boy (2019),movie
+neutral,Article 15 (2019),movie
+neutral,Rang De Basanti (2006),movie
+neutral,Sultan (2016),movie
+neutral,Falling Down (1993),movie
+neutral,The Dark Knight (2008),movie
+neutral,John Wick (2014),movie
+neutral,The Equalizer (2014),movie
+neutral,The Machinist (2004),movie
+neutral,Dead Man’s Shoes (2004),movie
+neutral,Oldboy (2003),movie
+disapproval,Dead Poets Society (1989),movie
+disapproval,The Graduate (1967),movie
+disapproval,Requiem for a Dream (2000),movie
+disapproval,A Star is Born (2018),movie
+disapproval,Moonlight (2016),movie
+disapproval,Lady Bird (2017),movie
+disapproval,The Social Network (2010),movie
+disapproval,"""The Catcher in the Rye"" by J.D. Salinger",book
+disapproval,"""Never Let Me Go"" by Kazuo Ishiguro",book
+disapproval,"""The Road"" by Cormac McCarthy",book
+disapproval,"""Daring Greatly"" by Brené Brown",book
+disapproval,"""The Gifts of Imperfection"" by Brené Brown",book
+disapproval,"""The Subtle Art of Not Giving a F*ck"" by Mark Manson",book
+disapproval,"""Braving the Wilderness"" by Brené Brown",book
+disapproval,"""The Collected Poems of W.B. Yeats""",book
+disapproval,The Fault in Our Stars (2014),movie
+disapproval,Masaan (2015),movie
+disapproval,Piku (2015),movie
+disapproval,The Lunchbox (2013),movie
+nostalgic,Dear Zindagi (2016),movie
+disapproval,The Salesman (2016),movie
+disapproval,Offside (2006),movie
+disapproval,The Mirror (1997),movie
+disapproval,Manchester by the Sea (2016),movie
+disapproval,The Secret Life of Walter Mitty (2013),movie
+disgust,"""The Human Centipede (First Sequence)"" (2009)",movie
+disgust,"""Saw"" (2004)",movie
+disgust,"""Hostel"" (2005)",movie
+disgust,"""Eraserhead"" (1977)",movie
+disgust,"""American Psycho"" (2000)",movie
+disgust,"""A Clockwork Orange"" (1971)",movie
+disgust,"""Pink Flamingos"" (1972)",movie
+disgust,"""The Act of Killing"" (2012)",movie
+disgust,"""Super Size Me"" (2004)",movie
+disgust,"""Mother!"" (2017)",movie
+disgust,"""Se7en"" (1995)",movie
+disgust,"""A Man Called Ove"" by Fredrik Backman",book
+disgust," ""Wild"" by Cheryl Strayed",book
+disgust,"""The Glass Castle"" by Jeannette Walls",book
+disgust,"""Educated"" by Tara Westover",book
+disgust,"""Eleanor Oliphant Is Completely Fine"" by Gail Honeyman",book
+disgust,"""The Kite Runner"" by Khaled Hosseini",book
+disgust,"""You Oughta Know"" - Alanis Morissette",song
+disgust,"""Animals"" - Maroon 5",song
+disgust,"""I Hate Myself for Loving You"" - Joan Jett & the Blackhearts",song
+disgust,"""Bad Guy"" - Billie Eilish",song
+disgust,"""Creep"" - Radiohead",song
+embarrassment,Forgetting Sarah Marshall (2008),movie
+embarrassment,"Crazy, Stupid, Love (2011)",movie
+embarrassment,Best in Show (2000),movie
+embarrassment,"""The Rosie Project"" by Graeme Simsion",book
+embarrassment,"""You Are Here: An Owner's Manual for Dangerous Minds"" by Jenny Lawson",book
+embarrassment,"""I Am Not Myself These Days"" by Josh Kilmer-Purcell",book
+embarrassment,"""Hyperbole and a Half"" by Allie Brosh",book
+embarrassment,"""Daring Greatly"" by Brené Brown",book
+embarrassment,"""The Gifts of Imperfection"" by Brené Brown",book
+embarrassment,"""The Inheritance of Loss"" by Kiran Desai",book
+embarrassment,"""A Fine Balance"" by Rohinton Mistry",book
+embarrassment,"""The God of Small Things"" by Arundhati Roy",book
+embarrassment,"""The 3 Mistakes of My Life"" by Chetan Bhagat",book
+embarrassment,"""How to Get Filthy Rich in Rising Asia"" by Mohsin Hamid",book
+embarrassment,Chupke Chupke (1975),movie
+fear,The Conjuring: The Devil Made Me Do It (2021),movie
+fear,Tumbbad (2018),movie
+fear,Pari (2018),movie
+fear,Stree (2018),movie
+fear,Raaz (2002),movie
+fear,Chhorii (2021),movie
+fear,"""It"" by Stephen King",book
+fear,"""The Haunting of Hill House"" by Shirley Jackson",book
+fear,"""Bird Box"" by Josh Malerman",book
+fear,"""Feel the Fear and Do It Anyway"" by Susan Jeffers",book
+fear,"""The Body Keeps the Score"" by Bessel van der Kolk",book
+fear,"""Through the Woods"" by Emily Carroll",book
+fear,"""Miss Peregrine's Home for Peculiar Children"" by Ransom Riggs",book
+gratitude,"""The Gratitude Diaries"" by Janice Kaplan",book
+gratitude,"""Thanks! How the New Science of Gratitude Can Make You Happier"" by Robert Emmons",book
+gratitude,"""The Magic"" by Rhonda Byrne",book
+gratitude,"""Gratitude"" by Oliver Sacks",book
+gratitude,"""The Gifts of Imperfection"" by Brené Brown",book
+gratitude,"""A Simple Act of Gratitude"" by John Kralik",book
+gratitude,"""Gratitude: An Intellectual History"" by Peter L. Berger",book
+gratitude,Riyad as-Salihin (The Gardens of the Righteous),book
+gratitude,Fortress of the Muslim (Hisn al-Muslim),book
+gratitude,Pay It Forward (2000),movie
+gratitude,The Blind Side (2009),movie
+gratitude,Soul (2020),movie
+gratitude,Forrest Gump (1994),movie
+gratitude,Heal (2017),movie
+gratitude,Won’t You Be My Neighbor? (2018),movie
+gratitude,Taare Zameen Par (2007),movie
+gratitude,Chhichhore (2019),movie
+gratitude,PK (2014),movie
+gratitude,Bajrangi Bhaijaan (2015),movie
+gratitude,Life in a... Metro (2007),song
+gratitude,"""Count Your Blessings"" by Eurythmics",song
+gratitude,"""Thank U"" by Alanis Morissette",song
+gratitude,"""Gratitude"" by The Beastie Boys",song
+gratitude,"""Good Life"" by OneRepublic",song
+gratitude,"""Isn’t She Lovely"" by Stevie Wonder",song
+gratitude,"""Thank You for Being a Friend"" by Andrew Gold",song
+happy,In the Early Hours: Reflections on Spiritual and Self Development by Khurram Murad,book
+happy,Don't Be Sad by Aaidh ibn Abdullah al-Qarni,book
+happy,The Sealed Nectar (Ar-Raheeq Al-Makhtum) by Safi-ur-Rahman al-Mubarakpuri,book
+happy,The Book of Remembrances by Ibn Rajab al-Hanbali,book
+happy,The Soul's Journey into the Hereafter by Ibn al-Qayyim,book
+happy,"""Eleanor Oliphant Is Completely Fine"" by Gail Honeyman",book
+happy,"""The Rosie Project"" by Graeme Simsion",book
+happy,"""Big Magic: Creative Living Beyond Fear"" by Elizabeth Gilbert",book
+happy,"""The Happiness Project"" by Gretchen Rubin",book
+happy,"""Where the Crawdads Sing"" by Delia Owens",movie
+happy,"""The Little Prince"" by Antoine de Saint-Exupéry",movie
+happy,Chennai Express (2013),movie
+happy,Barfi! (2012),movie
+happy,Dil Chahta Hai (2001),movie
+happy,The Grand Budapest Hotel (2014),movie
+happy,The Secret Life of Pets (2016),movie
+happy,Paddington 2 (2017),movie

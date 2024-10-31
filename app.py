@@ -24,7 +24,7 @@ def main():
             mood_prediction = mood_model(user_input)
             detected_mood = mood_prediction[0]['label']
             mapped_mood = map_mood(detected_mood)
-            st.subheader(f"Detected Mood: {detected_mood}")
+            # st.subheader(f"Detected Mood: {detected_mood}")
 
             if mapped_mood:
                 # Get recommendations and display them
