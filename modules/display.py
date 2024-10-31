@@ -7,3 +7,11 @@ def display_recommendations(recommendations):
             st.write(f"- {row['item']} ({row['type']})")
     else:
         st.write("No recommendations found for this mood.")
+
+
+
+
+
+
+
+

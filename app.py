@@ -4,6 +4,7 @@ from utils.load_data import load_data
 from utils.mapping import map_mood
 from modules.recommendation import recommend_items
 from modules.display import display_recommendations
+import random
 
 def main():
     st.title("Mood-Based Recommendation System")
@@ -15,6 +16,7 @@ def main():
 
     # Get user input
     user_input = st.text_area("Describe your mood:", "")
+    
 
     if st.button("Recommendations: "):
         if user_input:
@@ -22,6 +24,7 @@ def main():
             mood_prediction = mood_model(user_input)
             detected_mood = mood_prediction[0]['label']
             mapped_mood = map_mood(detected_mood)
+            st.subheader(f"Detected Mood: {detected_mood}")
 
             if mapped_mood:
                 # Get recommendations and display them

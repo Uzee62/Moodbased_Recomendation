@@ -17,8 +17,8 @@ relaxed,The Tao of Pooh,book
 relaxed,Weightless II by Marconi Union,song
 excited,The Happiness Project,book
 excited,Happy Together by The Turtles,song
-bored,The Stranger,book
-bored,Tired by Ed Sheeran,song
+disapointment,The Stranger,book
+disappointment,Tired by Ed Sheeran,song
 happy,The Pursuit of Happyness,movie
 happy,Inside Out,movie
 sad,The Fault in Our Stars,movie
@@ -35,16 +35,39 @@ relaxed,Avengers End Game,movie
 Calm,The Secret Garden,book
 Bored,"Bored to Death"" by Kesha",song
 Calm,Weightless,song
-nostalgic,Stand by Me,movie
+disappointment,Stand by Me,movie
 nostalgic,"""Summer of '69"" by Bryan Adams",song
 surprise,The Sixth Sense,movie
 surprise,"Surprise Surprise"" by The Intersphere",song
 nostalgic,"""The Perks of Being a Wallflower"" by Stephen Chbosky",book
-nostalgic,"""To Kill a Mockingbird"" by Harper Lee",book
+disappointment,"""To Kill a Mockingbird"" by Harper Lee",book
 nostalgic,"""The Great Gatsby"" by F. Scott Fitzgerald",book
 surprise,"""Shutter Island"" by Dennis Lehane",book
 surprise,"""Gone Girl"" by Gillian Flynn",book
 surprise,"""The Sixth Extinction"" by Elizabeth Kolbert",book
 surprise,"""We Were Liars"" by E. Lockhart",book
 surprise,"""The Last Thing He Told Me"" by Laura Dave",book
-sad,"""Fix You"" by Coldplay",song
+disappointment,"""Fix You"" by Coldplay",song
+excitement,"""The Hunger Games"" by Suzanne Collins",book
+excitement,Ready Player One,book
+excitement,"""The Da Vinci Code"" by Dan Brown",book
+excitement,"""The Maze Runner"" by James Dashner",book
+excitement,"""One of Us is Lying"" by Karen M. McManus",book
+excitement,"""Inception"" (2010)",movie
+excitement,"""Mad Max: Fury Road"" (2015)",movie
+excitement,"""Jurassic Park"" (1993)",movie
+excitement,"""The Dark Knight"" (2008)",movie
+excitement,"""Fast & Furious"" Franchise",movie
+excitement,"""Uptown Funk"" by Mark Ronson ft. Bruno Mars",song
+excitement,"""Eye of the Tiger"" by Survivor",song
+excitement,"""Titanium"" by David Guetta ft. Sia",song
+relaxed,"""Avengers""",movie
+disappointment,"""Tom And Jerry""",cartoon
+disappointment,"""The Intouchables (2011""",movie
+disappointment,"""Amélie (2001)""",movie
+disappointment,"""Little Miss Sunshine (2006)""",movie
+disappointment,"""Chef (2014)""",movie
+disappointment,"""Finding Nemo (2003)""",movie
+disappointment,"""About Time (2013)""",movie
+disappointment,"""Eternal Sunshine of the Spotless Mind (2004)""",movie
+disappointment,"""Inside Out (2015)""",movie
